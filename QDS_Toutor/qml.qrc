@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/qt/qml/qds_toutor">
+        <file>main.qml</file>
+    </qresource>
+</RCC>
